@@ -1,0 +1,199 @@
+object(stdClass)#1 (41) {
+  ["id"]=>
+  int(108)
+  ["parent_id"]=>
+  int(0)
+  ["number"]=>
+  string(3) "108"
+  ["order_key"]=>
+  string(22) "wc_order_5c3d47ab26318"
+  ["created_via"]=>
+  string(8) "checkout"
+  ["version"]=>
+  string(5) "3.5.3"
+  ["status"]=>
+  string(10) "processing"
+  ["currency"]=>
+  string(3) "USD"
+  ["date_created"]=>
+  string(19) "2019-01-15T02:38:35"
+  ["date_created_gmt"]=>
+  string(19) "2019-01-15T02:38:35"
+  ["date_modified"]=>
+  string(19) "2019-01-15T02:38:36"
+  ["date_modified_gmt"]=>
+  string(19) "2019-01-15T02:38:36"
+  ["discount_total"]=>
+  string(4) "0.00"
+  ["discount_tax"]=>
+  string(4) "0.00"
+  ["shipping_total"]=>
+  string(4) "0.00"
+  ["shipping_tax"]=>
+  string(4) "0.00"
+  ["cart_tax"]=>
+  string(4) "0.00"
+  ["total"]=>
+  string(6) "216.00"
+  ["total_tax"]=>
+  string(4) "0.00"
+  ["prices_include_tax"]=>
+  bool(false)
+  ["customer_id"]=>
+  int(1)
+  ["customer_ip_address"]=>
+  string(13) "66.31.157.147"
+  ["customer_user_agent"]=>
+  string(114) "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+  ["customer_note"]=>
+  string(0) ""
+  ["billing"]=>
+  object(stdClass)#2 (11) {
+    ["first_name"]=>
+    string(6) "elijah"
+    ["last_name"]=>
+    string(4) "reid"
+    ["company"]=>
+    string(14) "EMR Electrical"
+    ["address_1"]=>
+    string(12) "p.o. box 802"
+    ["address_2"]=>
+    string(0) ""
+    ["city"]=>
+    string(13) "East Falmouth"
+    ["state"]=>
+    string(2) "MA"
+    ["postcode"]=>
+    string(5) "02536"
+    ["country"]=>
+    string(2) "US"
+    ["email"]=>
+    string(23) "Eli.R@EMRElectrical.com"
+    ["phone"]=>
+    string(10) "7814146194"
+  }
+  ["shipping"]=>
+  object(stdClass)#3 (9) {
+    ["first_name"]=>
+    string(0) ""
+    ["last_name"]=>
+    string(0) ""
+    ["company"]=>
+    string(0) ""
+    ["address_1"]=>
+    string(0) ""
+    ["address_2"]=>
+    string(0) ""
+    ["city"]=>
+    string(0) ""
+    ["state"]=>
+    string(0) ""
+    ["postcode"]=>
+    string(0) ""
+    ["country"]=>
+    string(0) ""
+  }
+  ["payment_method"]=>
+  string(3) "cod"
+  ["payment_method_title"]=>
+  string(16) "Cash on delivery"
+  ["transaction_id"]=>
+  string(0) ""
+  ["date_paid"]=>
+  NULL
+  ["date_paid_gmt"]=>
+  NULL
+  ["date_completed"]=>
+  NULL
+  ["date_completed_gmt"]=>
+  NULL
+  ["cart_hash"]=>
+  string(32) "6a8968e6c3622f05ba4dc3bf4e00ad72"
+  ["meta_data"]=>
+  array(0) {
+  }
+  ["line_items"]=>
+  array(2) {
+    [0]=>
+    object(stdClass)#4 (14) {
+      ["id"]=>
+      int(3)
+      ["name"]=>
+      string(10) "fhjdghjfgh"
+      ["product_id"]=>
+      int(66)
+      ["variation_id"]=>
+      int(0)
+      ["quantity"]=>
+      int(1)
+      ["tax_class"]=>
+      string(0) ""
+      ["subtotal"]=>
+      string(5) "54.00"
+      ["subtotal_tax"]=>
+      string(4) "0.00"
+      ["total"]=>
+      string(5) "54.00"
+      ["total_tax"]=>
+      string(4) "0.00"
+      ["taxes"]=>
+      array(0) {
+      }
+      ["meta_data"]=>
+      array(0) {
+      }
+      ["sku"]=>
+      string(0) ""
+      ["price"]=>
+      int(54)
+    }
+    [1]=>
+    object(stdClass)#5 (14) {
+      ["id"]=>
+      int(4)
+      ["name"]=>
+      string(18) "dhndmndghmndghmghm"
+      ["product_id"]=>
+      int(68)
+      ["variation_id"]=>
+      int(0)
+      ["quantity"]=>
+      int(3)
+      ["tax_class"]=>
+      string(0) ""
+      ["subtotal"]=>
+      string(6) "162.00"
+      ["subtotal_tax"]=>
+      string(4) "0.00"
+      ["total"]=>
+      string(6) "162.00"
+      ["total_tax"]=>
+      string(4) "0.00"
+      ["taxes"]=>
+      array(0) {
+      }
+      ["meta_data"]=>
+      array(0) {
+      }
+      ["sku"]=>
+      string(0) ""
+      ["price"]=>
+      int(54)
+    }
+  }
+  ["tax_lines"]=>
+  array(0) {
+  }
+  ["shipping_lines"]=>
+  array(0) {
+  }
+  ["fee_lines"]=>
+  array(0) {
+  }
+  ["coupon_lines"]=>
+  array(0) {
+  }
+  ["refunds"]=>
+  array(0) {
+  }
+}

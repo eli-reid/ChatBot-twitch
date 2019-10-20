@@ -1,0 +1,18 @@
+{
+  "name": "chat-bot",
+  "version": "0.0.5",
+  "description": "ChatBot",
+  "main": "app.js",
+  "author": {
+    "name": "Edog0049a"
+  },
+  "dependencies": {
+    "dictionary-en-us": "^2.0.0",
+    "discord": "0.7.1",
+    "fs": "0.0.2",
+    "mysql": "^2.17.0",
+    "nspell": "^2.1.2",
+    "rousseau": "^1.0.5",
+    "tmijs-es5": "^1.0.0"
+  }
+}

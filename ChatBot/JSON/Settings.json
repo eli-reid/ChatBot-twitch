@@ -1,0 +1,38 @@
+﻿{
+  "CommandPrefix": [
+    "!"
+  ],
+  
+  "Twitch": {
+    "identity": {
+      "username": "",
+      "password": ""
+    },
+    "connection": {
+      "reconnect": true
+    },
+    "channels": [    ]
+  },
+  "TwitchAPI": {
+    "url": "https://api.twitch.tv/kraken/streams/?limit=100",
+    "headers": {
+      "Accept": "application/vnd.twitchtv.v5+json",
+      "Client-ID": ""
+    }
+  },
+  "MySQL": {
+    "DatabaseInterval": 1000,
+    "connectionLimit": 10,
+    "connectTimeout": 360000,
+    "aquireTimeout": 360000,
+    "timeout": 360000,
+    "host": "example.com",
+    "user": "user",
+    "password": "password",
+    "database": "db name"
+  },
+  "Discord": {
+    "Token": ""
+  }
+
+}
